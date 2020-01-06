@@ -1,7 +1,8 @@
 # DWARF Constants
 
 This is just a repository that contains all of the constants from [the DWARF
-spec](http://dwarfstd.org/doc/DWARF5.pdf) but in a machine readable format.
+spec](http://dwarfstd.org/doc/DWARF5.pdf) but in a machine readable and program
+language agnostic format.
 
 I didn't want to write a LaTeX parser, and it seems like other projects have
 all the DWARF constants hard coded in their respective language.  This is a
